@@ -166,7 +166,7 @@ body {
   font-size: 24px;
 }
 
-.footer a, .footer a:active, .footer a:visited {
+.footer a, .footer i, .footer a:active, .footer a:visited {
   color: white !important;
   line-height: 48px;
 }
