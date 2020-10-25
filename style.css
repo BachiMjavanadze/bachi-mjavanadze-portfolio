@@ -175,6 +175,7 @@ body {
 }
 
 .contact a {
+  color: white !important;
   display: inline-block;
   line-height: 30px;
   font-size: 22px;
