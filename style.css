@@ -79,6 +79,7 @@ background-color: transparent;
 
 :root {
   --airbnb-img: url("img/airbnb.jpg");
+  --fb-img: url("img/fb.jpg");
   --matrix-gif: url("img/matrix.gif");
 }
 
@@ -149,6 +150,10 @@ body {
 
 .project-1 {
   background: var(--airbnb-img) no-repeat center center/cover;
+}
+
+.project-2 {
+  background: var(--fb-img) no-repeat center center/cover;
 }
 
 .footer {
