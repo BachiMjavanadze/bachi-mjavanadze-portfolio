@@ -125,7 +125,19 @@ body {
 }
 
 .projects h4 {
+  display: inline-block;
+  padding: 5px;
+  border: 1px solid gray;
+  border-radius: 5px;
   font-size: 18px;
+  background-color: #fff;
+}
+
+.projects p {
+  display: inline-block;
+  background-color: #fff;
+  border-radius: 5px;
+  padding: 2px 5px;
 }
 
 .project-item {
