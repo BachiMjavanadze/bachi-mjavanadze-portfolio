@@ -78,8 +78,9 @@ background-color: transparent;
 /* #endregion - RESET */
 
 :root {
-  --airbnb-img: url("img/airbnb.jpg");
-  --fb-img: url("img/fb.jpg");
+  --airbnb-img: url("img/airb.jpg");
+  --fb-img: url("img/facebook.jpg");
+  --neflix-img: url("img/netf.jpg");
   --matrix-gif: url("img/matrix.gif");
 }
 
@@ -166,6 +167,10 @@ body {
 
 .project-2 {
   background: var(--fb-img) no-repeat center center/cover;
+}
+
+.project-3 {
+  background: var(--neflix-img) no-repeat center center/cover;
 }
 
 .footer {
