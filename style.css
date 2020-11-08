@@ -81,6 +81,7 @@ background-color: transparent;
   --airbnb-img: url("img/airb.jpg");
   --fb-img: url("img/facebook.jpg");
   --neflix-img: url("img/netf.jpg");
+  --todo-img: url("img/todo.jpg");
   --matrix-gif: url("img/matrix.gif");
 }
 
@@ -171,6 +172,10 @@ body {
 
 .project-3 {
   background: var(--neflix-img) no-repeat center center/cover;
+}
+
+.project-4 {
+  background: var(--todo-img) no-repeat center center/cover;
 }
 
 .footer {
